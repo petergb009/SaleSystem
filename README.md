@@ -1,0 +1,2 @@
+# SaleSystem
+c++ MFC SaleSystem
